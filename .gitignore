@@ -19,3 +19,7 @@
 *.exe
 *.out
 *.app
+/Default
+
+# Photos Examples (RAW SONY)
+*.ARW
